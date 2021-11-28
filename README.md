@@ -38,8 +38,7 @@ The version of python used was 3.9.6.
 
 ## Neural Network Architecture ##
 
-
-![png](README.md.figures/rede--dimensao.png)
+![png|,50%](README.md.figures/rede--dimensao.png)
 
 
 ## Example of a prediction notebook ##
