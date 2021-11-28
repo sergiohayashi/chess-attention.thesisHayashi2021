@@ -36,6 +36,12 @@ The version of python used was 3.9.6.
     Temporary folder for training.
 
 
+## Neural Network Architecture ##
+
+
+![png](README.md.figures/rede--dimensao.png)
+
+
 ## Example of a prediction notebook ##
 
 ```python
