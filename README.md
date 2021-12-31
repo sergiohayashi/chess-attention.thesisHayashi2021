@@ -20,7 +20,7 @@ The version of python used was 3.9.6.
 
 **dataset:**
     This folder contains training dataset. 
-    Addicional dataset can be downloaded from https://drive.google.com/drive/folders/1PHTbbP-QrDKC4hjz55EHyredKVGBq4OZ?usp=sharing.
+    Addicional dataset can be downloaded from https://drive.google.com/file/d/1qGiYtkmNJ_FJA-8YgeEkLg71x089djvM/view?usp=sharing.
 
 **dataset-builder**:
     This folder intention is for dataset building. All the necessary artefacts can be downloaded from 
